@@ -84,6 +84,7 @@ DRF,
 JWT + Djoser
 
 Полезные ссылки на документации:
+
 1 Simple JWT https://django-rest-framework-simplejwt.readthedocs.io/en/latest/index.html
 
 2 Generic views https://www.django-rest-framework.org/api-guide/generic-views/
