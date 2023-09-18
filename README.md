@@ -83,4 +83,12 @@ Django 3.2.16,
 DRF,
 JWT + Djoser
 
+Полезные ссылки на документации:
+1 Simple JWT https://django-rest-framework-simplejwt.readthedocs.io/en/latest/index.html
+2 Generic views https://www.django-rest-framework.org/api-guide/generic-views/
+3 Mixins https://testdriven.io/blog/drf-views-part-2/
+4 Django Rest Framework https://www.django-rest-framework.org/
+5 Unique Constraint https://django.fun/ru/docs/django/4.1/ref/models/constraints/#uniqueconstraint
+
+
 Автор: Тимофей Разборщиков (https://github.com/Timofey3085)
